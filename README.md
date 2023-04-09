@@ -35,6 +35,7 @@ python demo-one/modbus_data_insert.py --drop timestamp --file ./demo-one/heat_pu
 The script publishes one row of the specified CSV file per second and drops all columns specified by the `--drop`flag using `0` as node identifier, when all rows are published it terminates.
 
 Now you can read the data from StreamPipes via a connection to the Modbus server listening on `localhost:5002`.
+Be aware that you need to pass `host.docker.internal` as host inside StreamPipes.
 
 
 ## Second Demo - StreamPipes Python
