@@ -1,6 +1,6 @@
 # Apache StreamPipes for Pythonistas
 
-This repository contains additional material for the talk [`Apache StreamPipes for Pythonistas: IIoT data handling made easy!`](https://pretalx.com/pyconde-pydata-berlin-2023/talk/LXBGZS/) given by @bossenti and @SvenO3 at PyConDE 2023, Berlin.
+This repository contains additional material for the talk [`Apache StreamPipes for Pythonistas: IIoT data handling made easy!`](https://pretalx.com/pyconde-pydata-berlin-2023/talk/LXBGZS/) given by [@bossenti](https://www.github.com/bossenti) and [@SvenO3](https://www.github.com/SvenO3) at PyConDE 2023, Berlin.
 It contains the following elements:
 * Presentation slides
 * Material for the first demo
