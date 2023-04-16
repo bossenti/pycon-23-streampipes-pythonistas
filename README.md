@@ -13,7 +13,7 @@ There are three ways to start/deploy StreamPipes (CLI, Docker Compose, and Kuber
 of which we recommend using Docker Compose for end users.
 All you need to do is run the following command in `installer/compose` within the StreamPipes repository/source code:
 ```bash
-docker-compose -f docker-compose.yaml up -d
+docker-compose -f docker-compose.nats.yaml up -d
 ```
 For more detailed information about how to start StreamPipes, visit our [docs](https://streampipes.apache.org/docs/docs/deploy-docker.html).
 
