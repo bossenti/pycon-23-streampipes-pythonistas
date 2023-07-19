@@ -48,3 +48,7 @@ This demo is all about demonstrating how to use the StreamPipes Python library.
 All one need to is, to follow the Jupyter notebook in `demo-two`.
 There you can see how to setup the StreamPipes client to interact with the API and
 to implement a simple StreamPipes Function that allows you to interact with live data.
+
+## Talk Video
+
+Please find the talk's recording on [YouTube](https://www.youtube.com/watch?v=buAukOE8oEY).
