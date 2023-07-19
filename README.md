@@ -52,4 +52,6 @@ to implement a simple StreamPipes Function that allows you to interact with live
 ## Talk Video
 
 Please find the talk's recording on YouTube:
+<br>
+
 [![Youtube Video - Apache StreamPipes for Pythonistas: IIoT data handling made easy!](https://img.youtube.com/vi/buAukOE8oEY/0.jpg)](https://www.youtube.com/watch?v=buAukOE8oEY).
